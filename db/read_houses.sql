@@ -1,0 +1,1 @@
+select name, address, city, state, zip from houses;
